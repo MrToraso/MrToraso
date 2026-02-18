@@ -60,10 +60,8 @@ I use AI tools to accelerate development, improve productivity and explore solut
 ---
 
 ## 🤝 Let's Connect
-
-📧 Email: arevalopatricio79@gmail.com
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio-Arevalo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patricio-martin-arévalo-ortiz-985106191/)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arevalopatricio79@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio%20Arevalo%20Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-martin-ar%C3%A9valo-ortiz-985106191/)
 
 ---
 
